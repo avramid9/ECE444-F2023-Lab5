@@ -5,3 +5,8 @@ The main benefit of test driven development is that it forces developers to thin
 
 ### Cons
 A disadvantage of test driven development is that it can add a significant amount of work and time to start developing the system. The developer needs to write all the tests before they can actually start writing the implementation of the system. This can be difficult if the developer doesn't have a solid grasp of how the entire system should work. Also, if all of the team members are not coordinated and don't fully test their components of the system then the test coverage won't be very high. If a bug is introduced in the test then a developer can implement something incorrectly and introduce more bugs into the system. Also, if the requirements of the system change then it requires the extra work of changing all the tests along with the implementation code.
+
+
+
+### Test Case
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group15-crispycritters/blob/test-user-endpoint/backend/tests/test_server.py#L4-L33
